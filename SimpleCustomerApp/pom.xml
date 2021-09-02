@@ -7,7 +7,8 @@
         
         <plugin>
           <modelVersion>4.0.0</modelVersion>
-
+          <groupId>com.javatpoint</groupId>
+          <artifactId>SimpleCustomerApp</artifactId>
           <packaging>war</packaging>
           <version>1.0-SNAPSHOT</version>
            <name>SimpleCustomerApp</name>
